@@ -1,0 +1,67 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url(pexels-henry-&-co-1939485.jpg");
+}
+
+h1 {
+    color: gray
+    width: 25%;
+  
+
+}
+
+header {
+    background-color: #808080;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+ul {
+    padding: 0;
+    width: 100%;
+  }
+  
+  li {
+    display: inline;
+    margin: 0px;
+    text-align: center;
+    bottom: 250px;
+    margin: 50px
+    padding: 20px;
+  }
+  
+  a {
+    outline: none;
+    text-decoration: none;
+    display: inline-block;
+    width: 50%;
+    margin-right: 0.625%;
+    text-align: center;
+    line-height: 3;
+    
+  }
+  
+  li:last-child a {
+    margin-right: 0;
+  }
+  
+  a:link,
+  a:visited,
+  a:focus {
+    
+  }
+  
+  a:hover {
+    background: grey;
+  }
+  
+  a:active {
+    background: grey;
+    color: white;
+  }
